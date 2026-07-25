@@ -1,2 +1,2 @@
 # Spark
-Spark is open source software that allows you to create a minecraft server in python using minecrafts protocol for multiplayer servers we can fake a java server using python 
+Spark is open source software that allows you to create a minecraft server in python using Minecraft's protocol for multiplayer servers we can simulate a java server using python with mob ai,player movement,customizable config and a built-in anti-cheat we make it all!
